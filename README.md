@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! I'm Wilson.
+
+I'm building http://lowercase.club for those who hate ordinary.
 
 <!--
 **wilsonhou/wilsonhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
