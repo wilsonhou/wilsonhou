@@ -2,7 +2,7 @@
 
 ⚒️ I'm building [✨lowercase.club✨](https://lowercase.club) for those who hate ordinary.
 
-🌱 You can find me on [X](https://twitter.com/itswilsonhou) mostly, tweeting dev and design tips you'll actually use.
+🌱 You can find me on [**𝕏**](https://twitter.com/itswilsonhou) mostly, tweeting dev and design tips you'll actually use.
 
 <!--
 **wilsonhou/wilsonhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
