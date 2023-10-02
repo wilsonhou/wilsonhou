@@ -1,6 +1,6 @@
 ### Hey! I'm Wilson 👋🏻
 
-⚒️ I'm building [✨lowercase.club✨](https://lowercase.club) for those who hate ordinary.
+⚒️ I'm building [✨lowercase.club✨](https://lowercase.club) to rethink how dev and design should be.
 
 ![Screenshot of lowercase.club.](https://utfs.io/f/a7fccae9-44d2-4762-b1dd-e88de68e0004-dfigui.png)
 
