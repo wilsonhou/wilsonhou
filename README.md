@@ -1,8 +1,8 @@
 ### Hey! I'm Wilson 👋🏻
 
-⚒️ I'm building [✨lowercase.club✨](https://lowercase.club) to rethink how dev and design should be.
-
 ![Screenshot of lowercase.club.](https://utfs.io/f/a7fccae9-44d2-4762-b1dd-e88de68e0004-dfigui.png)
+
+⚒️ I'm building [✨lowercase.club✨](https://lowercase.club) to rethink how dev and design should be.
 
 🌱 You can find me on [**𝕏**](https://twitter.com/itswilsonhou) mostly, posting dev and design tips you'll actually use.
 
