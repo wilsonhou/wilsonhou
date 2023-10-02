@@ -2,6 +2,8 @@
 
 ⚒️ I'm building [✨lowercase.club✨](https://lowercase.club) for those who hate ordinary.
 
+![Screenshot of lowercase.club.](https://utfs.io/f/a7fccae9-44d2-4762-b1dd-e88de68e0004-dfigui.png)
+
 🌱 You can find me on [**𝕏**](https://twitter.com/itswilsonhou) mostly, posting dev and design tips you'll actually use.
 
 <!--
