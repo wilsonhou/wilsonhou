@@ -2,7 +2,7 @@ hey, i'm wilson
 
 i run a design studio for technical companies @ [lowercase.club](https://lowercase.club)
 
-dm me on twitter for collabs: [**𝕏**](https://twitter.com/itswilsonhou)
+dm me on [twitter](https://twitter.com/itswilsonhou) for collabs
 
 <!--
 **wilsonhou/wilsonhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
