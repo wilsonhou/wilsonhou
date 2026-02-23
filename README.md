@@ -1,7 +1,8 @@
 hey, i'm wilson
 
-i make cool brands and sites @ [lowercase](https://lowercase.club)
-dm on twitter for collabs: [**𝕏**](https://twitter.com/itswilsonhou)
+i run a design studio for technical companies @ [lowercase.club](https://lowercase.club)
+
+dm me on twitter for collabs: [**𝕏**](https://twitter.com/itswilsonhou)
 
 <!--
 **wilsonhou/wilsonhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
