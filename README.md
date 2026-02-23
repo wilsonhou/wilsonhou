@@ -1,8 +1,7 @@
-### Hey! I'm Wilson 👋🏻
+hey, i'm wilson
 
-⚒️ I'm building [✨lowercase.club✨](https://lowercase.club) for those who hate ordinary.
-
-🌱 You can find me on [**𝕏**](https://twitter.com/itswilsonhou) mostly, posting dev and design tips you'll actually use.
+i make cool brands and sites @ [lowercase](https://lowercase.club)
+dm on twitter for collabs: [**𝕏**](https://twitter.com/itswilsonhou)
 
 <!--
 **wilsonhou/wilsonhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
