@@ -1,6 +1,4 @@
-[lowercase.club](https://lowercase.club)
-
-dm me on [twitter](https://x.com/wilsonhou) for collabs
+[lowercase.club](https://lowercase.club) | [twitter](https://x.com/wilsonhou)
 
 <!--
 **wilsonhou/wilsonhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
